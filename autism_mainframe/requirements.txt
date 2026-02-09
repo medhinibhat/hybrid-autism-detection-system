@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+joblib
+numpy
+pandas
+opencv-python
+mediapipe
+matplotlib
+pillow
+protobuf==3.20.*

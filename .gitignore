@@ -1,0 +1,8 @@
+__pycache__/
+autism_env/
+output/
+stimuli/
+*.h5
+*.pkl
+venv/
+data/
